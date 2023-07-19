@@ -1,5 +1,5 @@
 
-public class Learning_phase {
+public class Positivo_negativo {
 
     public static void main(String[] args) {
         int num = 4;
